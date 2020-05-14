@@ -1,0 +1,13 @@
+{
+    "presets": 
+    [
+        [
+            "env",
+            {
+                "target": "12.13.1"
+            }
+        ]
+    ],
+    "sourceMaps": "inline",
+    "retainLines": true
+}
